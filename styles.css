@@ -1,0 +1,15 @@
+*{
+    background-color: blanchedalmond;
+    font-style: oblique;
+}
+
+.payment-card{
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    font-size: 30px;
+    background-color: rgb(102, 180, 228);
+    color: brown;
+}
+
